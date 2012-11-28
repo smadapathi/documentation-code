@@ -1,0 +1,5 @@
+title: Mobile Slider Widget
+template: samples.widgets.touch.Slider
+description: It shows how slider widget works in Aria Template. 
+sources:
+- Slider.tpl
